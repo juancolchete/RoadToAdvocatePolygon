@@ -17,6 +17,7 @@ To bring accessibility and simplify learn about Blockchain world I have a [youtu
 [generative art](https://github.com/juancolchete/furnitureDegen)  
 [youtube channel](https://www.youtube.com/channel/UCgZB7eGBo6sKBwRfSzCQoJg)  
 [generative art](https://www.youtube.com/playlist?list=PLbWtSW17vSe7XZpm6YCYlVk929Jvd4M96&index=1)  
+[NFT creation process from scratch to collection](https://www.youtube.com/playlist?list=PLbWtSW17vSe7cOVhuc60dtL49ZTdnUapp)  
 [smart contracts](https://www.youtube.com/playlist?list=PLbWtSW17vSe7C6bKGt7_4nyhFkCEIOKQ1)  
 [ERCs](https://www.youtube.com/playlist?list=PLbWtSW17vSe5fAdak7U1eo7nh2uFpyCZW)  
 [ERC-20](https://www.youtube.com/watch?v=ok47yukGLYQ&list=PLbWtSW17vSe5fAdak7U1eo7nh2uFpyCZW&index=1)  

@@ -3,7 +3,7 @@ Here is possible to find all information about my Application Form to Polygon Ad
 
 ###### 1
 ## Tell us about something you built and are really proud of and don’t hold back! Time to show off as much as you like and sell yourself as much as you can!
-To have the best reading experience [follow this link](https://github.com/juancolchete/RoadToAdvocatePolygon/blob/main/README.md#1)  
+To have the best reading experience [follow this link](https://github.com/juancolchete/RoadToAdvocatePolygon/blob/main/README.md#1) or copy and save in a markdown reader 
 To generate value to blockchain community in general, I have opensource projects that teaches: about [Solidity Course](https://t.ly/Kzs2T), [Solidity to Portuguese Speakers](https://t.ly/Rg2gi), [Solidity Samples](https://t.ly/2fRMN), [blockchain development](https://t.ly/G3IYa), [blockchain building](https://t.ly/Fvgvc), [JavaScript data structures and algorithms](https://t.ly/BQSj8), [generative art](https://t.ly/HQLkH).     
 
 To bring accessibility and simplify learn about Blockchain world I have a [youtube channel](https://t.ly/J8rC8), its focus is teach to everyone who wants to become a developer that knows: [generative art](https://t.ly/4pevV) , [NFT creation process from scratch to collection](https://t.ly/mV8M4), [smart contracts](https://t.ly/hqrP6),work with [ERCs](https://t.ly/1UdvQ) like [ERC-20](https://t.ly/xDJ4m), [ERC-721](https://t.ly/Q-08m), [ERC-1155](https://t.ly/PuPve), [JavaScript](https://t.ly/m7Nud), [IDE configuration, shortcuts and productivity tips](https://t.ly/lYgV_).

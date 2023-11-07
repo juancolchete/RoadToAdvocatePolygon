@@ -17,6 +17,14 @@ To generate value to blockchain community in general, I have opensource projects
 
 To bring accessibility and simplify learn about Blockchain world I have a [youtube channel](https://t.ly/J8rC8), its focus is teach to everyone who wants to become a developer that knows:  [NFT creation process from scratch to collection](https://t.ly/mV8M4), [JavaScript](https://t.ly/m7Nud), [IDE configuration, shortcuts and productivity tips](https://t.ly/lYgV_).
 
+###### 2
+# Could you provide us with a link to your GitHub project that you would like to showcase? Additionally, if there is another project you would like us to explore, Please feel free to share the relevant details with us.
+For the Best reading experience [follow this link](https://github.com/juancolchete/RoadToAdvocatePolygon/blob/main/README.md#2) or copy and save in a markdown reader  
+
+The [Furniture Degen](https://t.ly/HQLkH) is a project, which uses generative art to generate collection of NFTs. based on layers, each image has the same size and each layer has an z index to be able to assembly all of then and generate a image, all metadata is generated based in generation time, layer names and collection name and description. Images are stored on IPFS after generating, and after updating the metadata, these JSON files are also uploaded to IPFS.  The engine used to generate random NFTs is based on Hashlips. The [smart contract](https://t.ly/3X4Zy) is based on ERC-721 with customizations that allows: change metadata URI base, get mint price, buy NFTs, define a price and mint limit  The NFTs were deployed, minted and verified on [Polygon zK EVM Tesnet](https://t.ly/cebuW) to test the solidity version, [Mumbai](https://t.ly/ENZvx) to see NFTs on Open Sea and [Polygon zK EVM](https://t.ly/St92y) to teach how to deploy the collection on mainnet.
+
+
+
 ## Original link paths
 [Solidity Course](https://github.com/juancolchete/SolidityCourse)  
 [Solidity to Portuguese Speakers](https://github.com/juancolchete/BlockchainBR)  
@@ -36,6 +44,7 @@ To bring accessibility and simplify learn about Blockchain world I have a [youtu
 [JavaScript](https://www.youtube.com/playlist?list=PLbWtSW17vSe4ppzFhcxBJutuOQ-F8hJDh)  
 [IDE configuration, shortcuts and productivity tips](https://www.youtube.com/playlist?list=PLbWtSW17vSe5cA8y2BVpGKxZIbqCEZoYP)  
 [Blockchain Builder](https://www.youtube.com/playlist?list=PLbWtSW17vSe6ghIVaU181H2OWpm_1_dEB)
+[Furniture Degen Smart Contract](https://github.com/juancolchete/BlockchainDeveloper/blob/main/contracts/FurnitureDegen.sol)
 [generative art contract zK EVM Testnet](https://testnet-zkevm.polygonscan.com/address/0x2434365088f6b905fb84230a6048e4cc0933c9ef)
 [generative art contract Mumbai](https://mumbai.polygonscan.com/token/0xc10b75744340e968beb74b5e927aff8543def581)
 [generative art contract zK EVM](https://zkevm.polygonscan.com/address/0x7aad05465be693eec606753165229ff5d275c349)

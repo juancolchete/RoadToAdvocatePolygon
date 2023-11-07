@@ -48,3 +48,13 @@ The [Furniture Degen](https://t.ly/HQLkH) is a project, which uses generative ar
 [generative art contract zK EVM Testnet](https://testnet-zkevm.polygonscan.com/address/0x2434365088f6b905fb84230a6048e4cc0933c9ef)
 [generative art contract Mumbai](https://mumbai.polygonscan.com/token/0xc10b75744340e968beb74b5e927aff8543def581)
 [generative art contract zK EVM](https://zkevm.polygonscan.com/address/0x7aad05465be693eec606753165229ff5d275c349)
+
+## Social networks
+[Github](https://github.com/juancolchete)
+[StackOverflow](https://stackoverflow.com/users/11447524/juan-colchete)
+[Twitter / X](https://twitter.com/JuanColchete)
+[Youtube](https://www.youtube.com/channel/UCgZB7eGBo6sKBwRfSzCQoJg)
+[Linkedin](https://linkedin.com/in/juancolchete/)
+[Medium](https://medium.com/@juancolchete)
+[Telegram](https://t.me/juancolchete)
+[Website](https://juancolchete.com.br/)
